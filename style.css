@@ -1,0 +1,16 @@
+.parent{
+    height: auto;
+    background-color: bisque;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    justify-content: start;
+    align-items: start;
+    flex-wrap: wrap;
+
+}
+.child{
+    background-color: aqua;
+    padding: 10px 20px;
+    border: 2px solid black;
+}
